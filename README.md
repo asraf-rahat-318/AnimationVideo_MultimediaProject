@@ -11,7 +11,7 @@ This lecture video/animation will help the students of classes 9 & 10 of Bangla 
 
 ###Team
  1. Nishat Tasnim - Project manager, Script Writer, Animator, Voice Artist, Editor <br>
- 2. Asraf Ullah Rahat - Story writer, Script writer, Editor <br>
+ 2. Asraf Ullah Rahat - Story writer, Script writer, Animator, Editor <br>
  3. Abdullah Al Shaikh - Animator, Editor<br>
  4. Jubair Al Faisal - Sketcher, Animator<br>
  5. Tasmim Sultana - Animator <br>
